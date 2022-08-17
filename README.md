@@ -1,70 +1,27 @@
-# Getting Started with Create React App
+# 🧪 cypress-react-e-2-e
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The `cypress-react-e-2-e` is an educational project aims to teach using Cypress end-to-end test with a ReactJS application. This project may be mentioned in various written and video content I'll create in the coming days.
 
-## Available Scripts
+It is an Open Source project. It means, if you would like to enhance it by adding features, test cases, you are most welcome. Please follow the instructions below to get started.
 
-In the project directory, you can run:
+Before we move on, if you like my effort in teaching and educating, you can motivate me by giving the repository a start ⭐ and/or follow me on these platforms,
 
-### `yarn start`
+- [GitHub](https://github.com/atapas)
+- [Twitter](https://twitter.com/tapasadhikary)
+- [LinkedIn](https://www.linkedin.com/in/tapasadhikary/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Many Thanks to all Stargazers
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<a href="https://github.com/atapas/cypress-react-e-2-e/stargazers">
+  <img src="https://git-lister.onrender.com/api/stars/atapas/cypress-react-e-2-e?limit=25" alt="Stargazers repo roster for @atapas/cypress-react-e-2-e" />
+</a> 
 
-### `yarn test`
+# Running The Project
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- First clone/fork the project
+- Change the directory to `cypress-react-e-2-e`
+- Install dependencies using the command `yarn install` or `npm install`.
+- Start the Rect app using the command `yarn start` or `npm run start`. It will launch the app locally on the URL http://localhost:3000
+- Now open another terminal/command prompt in the same folder.
+- Type the command `npx cypress open` and press the enter key. It will open up the Cypress app on your browser to start running the test cases.
 
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
