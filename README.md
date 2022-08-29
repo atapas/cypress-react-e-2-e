@@ -13,7 +13,7 @@ Before we move on, if you like my effort in teaching and educating, you can moti
 Many Thanks to all Stargazers
 
 <a href="https://github.com/atapas/cypress-react-e-2-e/stargazers">
-  <img src="https://git-lister.onrender.com/api/stars/atapas/cypress-react-e-2-e?limit=15" alt="Stargazers repo roster for @atapas/cypress-react-e-2-e" />
+  <img src="https://git-lister.onrender.com/api/stars/atapas/cypress-react-e-2-e?limit=25" alt="Stargazers repo roster for @atapas/cypress-react-e-2-e" />
 </a> 
 
 # Running The Project
